@@ -1,0 +1,29 @@
+{
+    "android": {
+        "inReview": "false", 
+        "version": "1.0"
+    }, 
+    "array": [
+        {
+            "age": 0, 
+            "boolean": true, 
+            "firstName": "John", 
+            "lastName": "Doe"
+        }, 
+        {
+            "age": 12, 
+            "firstName": "Anna", 
+            "lastName": "Smith"
+        }, 
+        {
+            "age": 99, 
+            "firstName": "Peter", 
+            "lastName": "Jones"
+        }
+    ], 
+    "iOS": {
+        "inReview": "false", 
+        "version": "1.0.3"
+    }, 
+    "uuid": "D7D92893-F7F9-4785-B07C-458857B90F3A"
+}
